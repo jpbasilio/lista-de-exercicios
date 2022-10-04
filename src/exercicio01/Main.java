@@ -1,10 +1,4 @@
 package exercicio01;
-/**
- *
- * Faça um algoritmo que receba dois números e exiba o resultado da sua soma;
- *
- * @author João Silva
- */
 
 import java.util.Scanner;
 
